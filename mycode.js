@@ -2,3 +2,4 @@ master mycode.js
 oneline
 hello from michel
 conflict
+moooore
